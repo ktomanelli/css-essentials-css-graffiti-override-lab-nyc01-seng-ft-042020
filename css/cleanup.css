@@ -1,26 +1,30 @@
-/* write your override styles here */
-.tag-1{
-  width:20px;
+.tag-1 {
+  width: 20px;
   height: 100px;
 }
-body{
-  display:flex;
+body {
+  display: flex;
 }
-#tag-2{
-  margin:10%;
+#tag-2 {
+  margin: 10%;
 }
-#tag-3{
-  color:red;
+#tag-3 {
+  width: 20px;
+  height: 100px;
 }
-#tag-4{
-  color:red;
+#tag-4 {
+  width: 50px;
+  height: 10px;
 }
-#tag-5{
-  color:red;
+#tag-5 {
+  width: 2px;
+  height: 100px;
 }
-#tag-6{
-  color:red;
+#tag-6 {
+  width: 202px;
+  height: 140px;
 }
-#tag-7{
-  color:red;
+#tag-7 {
+  width: 20px;
+  height: 190px;
 }
