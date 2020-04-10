@@ -3,7 +3,9 @@
   width:20px;
   height: 100px;
 }
-
+body{
+  display:flex;
+}
 #tag-2{
   margin:10%;
 }
